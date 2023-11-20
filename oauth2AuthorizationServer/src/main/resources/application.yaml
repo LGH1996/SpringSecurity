@@ -1,0 +1,6 @@
+server:
+  port: 9001
+  reactive:
+    session:
+      cookie:
+        name: AUTHORIZATION

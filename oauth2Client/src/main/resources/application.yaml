@@ -1,0 +1,6 @@
+server:
+  port: 9002
+  reactive:
+    session:
+      cookie:
+        name: CLIENT
